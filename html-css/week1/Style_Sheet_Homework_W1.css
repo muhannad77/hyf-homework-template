@@ -1,0 +1,48 @@
+h1 {
+    color: royalblue;
+  
+    font-size:100px;
+    position: absolute;
+    left: 540px;
+    top:-85px;
+    margin-bottom:20px ;
+    }
+
+    h2 {
+        color: rgb(247, 247, 255);
+        
+    }
+    .contact-info {
+        background-color: rgb(224, 9, 9);
+        padding: 35px;
+        width: 170px;
+        height: 850px; 
+        margin: 20px;
+        margin-top: 75px;
+        margin-left:10px;
+        position:relative;
+        top: 25px;
+    }
+   
+
+   .work-experience {
+      background-color: blueviolet; 
+      padding: 35px; 
+      width: 220px;
+      position: relative;
+      bottom: 910px;
+      left: 280px;
+   }
+    .education {
+    background-color: chartreuse;
+     padding: 35px;
+     width: 350px;
+     position: relative;
+     bottom: 870px;
+     left: 280px;
+    }
+
+   
+  
+
+    
